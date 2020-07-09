@@ -1,6 +1,6 @@
-> **Black (Trans) Lives Matter.**
+> **Black Trans Lives Matter.**
 >
-> [Resources (via my site)](https://lukewhrit.xyz/resources.html)
+> [✊🏿 Resources (via my site)](https://lukewhrit.xyz/resources.html)
 
 ### Hi there, I'm Luke 👋
 
