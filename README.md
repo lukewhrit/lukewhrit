@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Luke 👋
 
-Hey, I'm Luke. I'm a 14 year old web developer from New Jersey.
+I'm a 14 year old web developer from New Jersey.
 
 Right now, I'm mostly working on [Spacebin](https://spaceb.in), a powerful text-sharing app built with TypeScript and Koa. I have experience in TypeScript, JavaScript, Ruby, Python, and HTML/CSS.
 
