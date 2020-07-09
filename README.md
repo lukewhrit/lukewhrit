@@ -1,3 +1,7 @@
+> **Black (Trans) Lives Matter.**
+>
+> [Resources (via my site)](https://lukewhrit.xyz/resources.html)
+
 ### Hi there, I'm Luke 👋
 
 I'm a 14 year old web developer from New Jersey.
