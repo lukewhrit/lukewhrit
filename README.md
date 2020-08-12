@@ -1,4 +1,4 @@
-> **Black Trans Lives Matter.**
+> **Black Lives Matter. Black LGBTQ+ Lives Matter.**
 >
 > [✊🏿 Resources (via my site)](https://lukewhrit.xyz/resources.html)
 
