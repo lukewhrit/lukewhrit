@@ -11,5 +11,3 @@ Right now, I'm mostly working on [Spacebin](spacebin-org/spacebin), a powerful t
 I currently run Artix, runit, and bspwm. All of my system configurations are stored in my [dotfiles](lukewhrit/dotfiles) repository.
 
 You can find me on [🦜 Twitter](https://twitter.com/luke_324), [🎥 Letterboxd](https://letterboxd.com/Luke_324/), [🔑 Keybase](https://keybase.io/luke324), or [🌐 My Own Website](https://lukewhrit.xyz).
-
-[![Luke's github stats](https://github-readme-stats.vercel.app/api?username=lukewhrit)](https://github.com/anuraghazra/github-readme-stats)
