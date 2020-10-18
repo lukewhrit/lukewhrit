@@ -1,7 +1,9 @@
 ## Hi there, I'm Luke 👋
 
-I'm a 14 year old web developer from New Jersey. Right now, I'm mostly working on [Spacebin](spacebin-org/spacebin), a powerful text-sharing app built with Go, Fiber, and GORM.
+I'm a 14 year old software engineer and Linux system administrator from New Jersey. I mostly work in Go, JavaScript/TypeScript, HTML/CSS, and some Ruby.
 
-I have experience in TypeScript/JavaScript, HTML/CSS, Golang, and Ruby. I'm also interested in learning Rust, Java, and C. My system currently runs Arch Linux and BSPWM. All of my system configurations are stored in my [dotfiles](lukewhrit/dotfiles) repository.
+I've been programming for a while now &mdash; a few years. I've worked on a ton of projects in that time, most of my recent ones are available on [Github](https://github.com/lukewhrit) for all to see and make use of.
+
+I'm a strong believer in [open source software](https://en.wikipedia.org/wiki/Open_source) and therefore most of the projects I contribute to are open. Recently, I've worked on a few projects of note, such as [Spacebin](https://spaceb.in), [Juno Hosting](https://hosting.junodevs.tech) and [Scarecrow](https://github.com/lukewhrit/scarecrow).
 
 You can find me on [🦜 Twitter](https://twitter.com/luke_324), [🎥 Letterboxd](https://letterboxd.com/Luke_324/), [🔑 Keybase](https://keybase.io/luke324), or [🌐 My Own Website](https://lukewhrit.xyz).
