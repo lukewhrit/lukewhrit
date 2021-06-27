@@ -1,6 +1,6 @@
 ## Hi there, I'm Luke 👋
 
-I'm a gay 15 year old software engineer and Linux system administrator from New Jersey. I mostly work in Go, JavaScript/TypeScript, HTML/CSS, and some Ruby.
+I'm a gay nonbinary 15 year old software engineer and Linux system administrator from New Jersey. I mostly work in Go, JavaScript/TypeScript, HTML/CSS, and some Ruby.
 
 I've been programming for a while now &mdash; a few years. I've worked on a ton of projects in that time, most of my recent ones are available on [Github](https://github.com/lukewhrit) for all to see and make use of.
 
