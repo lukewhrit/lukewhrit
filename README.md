@@ -1,6 +1,6 @@
 ## Hi there, I'm Luke 👋
 
-I'm a [bisexual](https://lgbta.wikia.org/wiki/Bisexual) [genderfluid](https://lgbta.wikia.org/wiki/Genderfluid) 15 year old software engineer and Linux system administrator from New Jersey. I mostly work in Go, JavaScript/TypeScript, HTML/CSS, and some Ruby.
+I'm a [bisexual](https://lgbta.wikia.org/wiki/Bisexual) and [genderfluid](https://lgbta.wikia.org/wiki/Genderfluid) 15 year old software engineer and Linux system administrator from New Jersey. I mostly work in Go, JavaScript/TypeScript, HTML/CSS, and some Ruby.
 
 My birth name is Luke but since I’m [genderfluid](https://lgbta.wikia.org/wiki/Genderfluid) I often go by the name Ava in a number of places. Most of the time I prefer Ava so I ask that you use it, however, if you prefer to use Luke that is also fine.
 
