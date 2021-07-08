@@ -1,4 +1,4 @@
-## Hi there, I'm Ava 👋
+## Hi there, I'm Luke 👋
 
 I'm a [bisexual](https://lgbta.wikia.org/wiki/Bisexual) [nonbinary](https://lgbta.wikia.org/wiki/Non-Binary) 15 year old software engineer and Linux system administrator from New Jersey. I mostly work in Go, JavaScript/TypeScript, HTML/CSS, and some Ruby.
 
